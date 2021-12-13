@@ -1,0 +1,6 @@
+projectKey=celupaisa
+serverUrl=http://localhost:9000
+serverVersion=9.2.1.49989
+dashboardUrl=http://localhost:9000/dashboard?id=celupaisa
+ceTaskId=AX2wx3iKIr7og0Kb7oqY
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AX2wx3iKIr7og0Kb7oqY
